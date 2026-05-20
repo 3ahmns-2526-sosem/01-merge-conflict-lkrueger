@@ -9,3 +9,5 @@ Dieses Projekt wurde online auf GitHub bearbeitet.
 
 Dieses Projekt wurde lokal und online bearbeitet.
 Der Merge Conflict wurde gelöst.
+
+Lokal bearbeitet beim Issue 2
